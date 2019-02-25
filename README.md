@@ -20,3 +20,5 @@ Adjust the spacing around elements using padding and margin to give the layout s
 ## Navigation and Page
 * Add a footer to the page and style the footer.
 * Style the nav bar in a way that lets users know when they are hovering over a clickable item.
+
+## Intro to JavaScript
