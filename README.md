@@ -22,3 +22,4 @@ Adjust the spacing around elements using padding and margin to give the layout s
 * Style the nav bar in a way that lets users know when they are hovering over a clickable item.
 
 ## Intro to JavaScript
+will implement knowledge of booleans, conditionals, and arrays to help with the task of storing cards and creating your game's logic.
