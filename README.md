@@ -23,3 +23,6 @@ Adjust the spacing around elements using padding and margin to give the layout s
 
 ## Intro to JavaScript
 will implement knowledge of booleans, conditionals, and arrays to help with the task of storing cards and creating your game's logic.
+
+## Functions
+For this unit's assignment, you will be adding functions to the code from the previous assignment to group together steps that perform specific tasks in our game.
