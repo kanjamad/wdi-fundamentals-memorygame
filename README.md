@@ -26,3 +26,8 @@ will implement knowledge of booleans, conditionals, and arrays to help with the 
 
 ## Functions
 For this unit's assignment, you will be adding functions to the code from the previous assignment to group together steps that perform specific tasks in our game.
+
+## Objects
+For this unit's assignment, you will be creating an object for each card that will store that card's name, the suit, and a path to where the image for that card is stored in our project.
+
+You'll then update any code from the last assignment that was accessing values from the cards array so that we are accessing values from that specific card object.
