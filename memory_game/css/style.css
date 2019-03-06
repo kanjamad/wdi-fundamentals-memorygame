@@ -106,3 +106,24 @@ footer{
     color: #F15B31;
     font-weight: 700;
 }
+
+/* ###################### Reset ###############################*/
+/* ########################################################### */
+
+button {
+   
+    background-color:rgb(241, 49, 193);
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    font-size: 16px;
+    margin: 30px 2px;
+    padding: 15px 32px;
+    text-align: center;
+}
+
+button:hover{
+    border: 3px solid transparent;
+    border-color: rgb(231, 205, 90);
+    background-color:rgb(107, 49, 241);
+    cursor: pointer;
+}

@@ -61,3 +61,11 @@ var createBoard = function(){
 };
 
 createBoard();
+
+
+// Reset button
+document.getElementById("button").addEventListener("reset", buttonReset);
+
+var buttonReset = function(){
+    document.getElementById('game-board').innerHTML = "";
+};
