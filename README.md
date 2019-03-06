@@ -31,3 +31,10 @@ For this unit's assignment, you will be adding functions to the code from the pr
 For this unit's assignment, you will be creating an object for each card that will store that card's name, the suit, and a path to where the image for that card is stored in our project.
 
 You'll then update any code from the last assignment that was accessing values from the cards array so that we are accessing values from that specific card object.
+
+## The DOM
+Now that we've learned how to access and manipulate the DOM, let's practice by putting the finishing touches on a browser-based memory card game! We won't rely on logging messages to the console to see the game in action. And we can use our event handlers to allow a user to actually play the game!
+
+After completing this assignment you will have a working memory game!
+
+When the user clicks on a card, the image with the face of that card should be displayed. If the user has selected two cards, an alert should pop up letting the user know if the two cards match.
