@@ -64,8 +64,10 @@ createBoard();
 
 
 // Reset button
-document.getElementById("button").addEventListener("reset", buttonReset);
 
-var buttonReset = function(){
-    document.getElementById('game-board').innerHTML = "";
-};
+var button = document.getElementById("button");
+button.addEventListener("click", function(){
+    console.log("reset is working");
+    // document.getElementById('game-board').innerHTML = "";
+    
+})
